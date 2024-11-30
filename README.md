@@ -25,7 +25,7 @@ Story Generator es una aplicación de línea de comandos que permite crear histo
 
 1. Clonar el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone [<url-del-repositorio>](https://github.com/jesusruiztoledo/story-generator)
    cd story-generator
    ```
 
